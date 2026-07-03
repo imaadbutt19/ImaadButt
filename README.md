@@ -11,6 +11,7 @@ Simple console-based projects in C++
 - **Hotel Management System**
 - **TIC TAC TOE Game** 
 - **Maze Game**
+
 2D rougelike game in OOP Java
 - **Dungeon Crawl**
 
