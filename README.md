@@ -6,12 +6,12 @@
 - Programming Languages: C, C++, Python, Java
 
 ## Projects 📂
-– Simple console-based projects in C++
+Simple console-based projects in C++
 - **Student Result Record System** 
 - **Hotel Management System**
 - **TIC TAC TOE Game** 
 - **Maze Game**
-- 2D rougelike game in OOP Java
+2D rougelike game in OOP Java
 - **Dungeon Crawl**
 
 ## Connect with me
